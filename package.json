@@ -1,0 +1,17 @@
+{
+  "name": "Brute",
+  "version": "0.0.1",
+  "description": "Make your life easier",
+  "main": "index.js",
+  "author": "Suibin",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  },
+  "repository": {
+    "typte": "git",
+    "url": "https://github.com/Suibin1/Brute"
+  },
+  "private": true
+}
